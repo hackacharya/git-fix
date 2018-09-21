@@ -3,7 +3,7 @@ Scripts for recovering git repos from loose object errors
 
 
 Couple of Bad Power situations and Bad shutdowns / restarts ? 
-Annoying GIT errors and you figure that's the only copy
+Annoying GIT errors and you don't want to clone again . 
 
 Cleanup A the view and make it usable again assume everything
 is checked in and pushed. Your Unpushed COMMITS MAY be lost with
